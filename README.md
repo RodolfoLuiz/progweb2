@@ -16,6 +16,6 @@ Objetivos:
 Funcionalidades:
 - Cadastro de informações dos proprietários;
 - Classificação do tipo de animal doméstico (cachorro, gato, pássaros, roedores, etc.);
-- Cadastras informações do animal (nome, data de nascimento, espécie/raça, condições de saúde, etc.);
+- Cadastrar informações do animal (nome, data de nascimento, espécie/raça, condições de saúde, etc.);
 - Aba de vacinações;
 - Observações sobre cuidados especiais sobre alguns animais;
